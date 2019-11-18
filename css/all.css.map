@@ -1,0 +1,1 @@
+{"version":3,"sources":["all.scss"],"names":[],"mappings":"AACA;EACE,mBAFY;EAGZ,4BAAoB;EAApB,oBAAoB;EACpB,cAAc,EAAA","file":"all.css","sourcesContent":["$black:#aeaeae;\nbody{\n  background: $black;\n  transition: all 0.2s;\n  color: #ffffff;\n}"]}
