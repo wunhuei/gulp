@@ -1,0 +1,21 @@
+{
+  "name": "gg",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "wunhuei <vivian19901012@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/wunhuei/practice_BMI",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  }
+}
